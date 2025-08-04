@@ -1,0 +1,3 @@
+[submodule "hw_infra"]
+	path = hw_infra
+	url = git@github.com:lightmatter-ai/hw_infra.git
