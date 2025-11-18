@@ -1,0 +1,7 @@
+# Optional dependencies for github_stale_branches.py
+# Install with: pip install -r requirements.txt
+
+PyGithub>=1.59.0  # For GitHub API access (optional - falls back to gh CLI)
+
+# Alternative: Use GitHub CLI instead
+# Install gh CLI: https://cli.github.com/
